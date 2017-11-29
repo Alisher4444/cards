@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+   <link href="style.css" rel="stylesheet">
+ </head>
+ <body>
+  <article class="card">
+   <header class="card-thumb">
+     <img src="http://lorempicsum.com/futurama/370/235/5">
+   </header>
+
+   <div class="card-date">
+    <span class="card-date-day">12</span>
+    <span class="card-date-month">Mai</span>
+
+   </div>  
+   <div class="card-body">
+     <div class="card-category">
+      <a href="#" >Photos</a>
+     </div>
+     <div class="card-title">
+      <a href="#">Title</a>
+     </div>
+     <div class="card-subtitle">
+      SubTitle
+     </div>
+     <p class="card-desctiption">
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.	
+     </p>
+
+   </div>
+    
+   <footer class="card-footer">
+    <span class="icon icon-time"></span> 6 min
+    <span class="icon icon-comment"></span>39 comments
+   </footer>
+
+
+  </article>
+
+ </body>
+</html>
+
